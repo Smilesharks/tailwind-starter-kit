@@ -1,0 +1,12 @@
+/* Tailwind Basic */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+
+/* Disable Browser-Sync notification */
+#__bs_notify__ {
+	display: none;
+	opacity: 0;
+}
